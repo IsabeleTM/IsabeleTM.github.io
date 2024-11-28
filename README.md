@@ -13,3 +13,8 @@ Aqui será meu primeiro site
 
 ## Acessando site 
 Para ter acesso a esse site entre em <https://IsabeleTM.github.io> 
+
+## Autores 
+Abaixo alguns links de rede social  
+- [Linkedin] (https://br.linkedin.com/in/isabele-moror%C3%B3-33b557144)
+- <a href=" ">https://www.instagram.com/isabeletaumaturgo/ </a> 
